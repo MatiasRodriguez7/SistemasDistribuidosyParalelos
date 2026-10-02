@@ -1,0 +1,6 @@
+N=14  Hilos por nodo=8  Procesos MPI=2  Balance de carga=0.898750
+promedio hilo: 0.013393 segundos
+maximo hilo : 0.014902 segundos
+Soluciones únicas : 45752
+Soluciones totales: 365596
+Tiempo de ejecución: 0.016155 segundos
